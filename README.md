@@ -13,4 +13,4 @@
 **TylerRust-1/TylerRust-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![](https://visitcount.itsvg.in/api?id=TylerRust-1&icon=3&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TylerRust-1&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
