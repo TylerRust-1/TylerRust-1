@@ -10,5 +10,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TylerRust-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
-![](https://visitcount.itsvg.in/api?id=TylerRust-1&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+----------------------
+[![](https://visitcount.itsvg.in/api?id=TylerRust-1&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
