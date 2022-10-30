@@ -9,8 +9,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TylerRust-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-<!--
-**TylerRust-1/TylerRust-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<br/>
 [![](https://visitcount.itsvg.in/api?id=TylerRust-1&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
